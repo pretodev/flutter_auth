@@ -1,5 +1,5 @@
-run = "dart main.dart"
-entrypoint = "main.dart"
+run = "dart bin/main.dart"
+entrypoint = "bin/main.dart"
 
 [packager]
 language = "dart-pub"
