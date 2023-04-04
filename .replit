@@ -19,4 +19,4 @@ pattern = "**/*.dart"
 start = "dart language-server"
 
 [deployment]
-run = ["sh", "-c", "dart main.dart"]
+run = ["sh", "-c", "dart bin/main.dart"]
